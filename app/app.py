@@ -1,9 +1,9 @@
-    """
-    link de curso: https://www.youtube.com/watch?v=-1DmVCPB6H8
-    Descripcion: Tutorial Flask: Framework de Python para Aplicaciones Web 🌐 (Desde Cero) ✅
-    Esado: Terminado
+"""
+link de curso: https://www.youtube.com/watch?v=-1DmVCPB6H8
+Descripcion: Tutorial Flask: Framework de Python para Aplicaciones Web 🌐 (Desde Cero) ✅
+Esado: Terminado
 
-    """
+"""
 
 
 from flask import Flask, render_template, request , redirect , url_for, jsonify
